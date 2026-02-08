@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :18: for Floccus bookmark sync browser extension -->
+<!--- highestId :22: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -24,6 +24,9 @@
     <title></title>
   </bookmark>
   <bookmark href="https://www.promiedos.com.ar/" id="9">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://mechardo3d.xyz/es" id="19">
     <title></title>
   </bookmark>
   <folder id="10">
@@ -50,9 +53,15 @@
       <title>n8n</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.thingiverse.com/" id="18">
-    <title></title>
-  </bookmark>
+  <folder id="20">
+    <title>IA</title>
+    <bookmark href="https://console.cloud.google.com/billing/013586-056B76-286ED0?project=gen-lang-client-0192650346" id="21">
+      <title>MECHARDO BILL – Descripción general – Facturación – N8N homelab – Consola de Google Cloud</title>
+    </bookmark>
+    <bookmark href="https://aistudio.google.com/usage?timeRange=last-28-days&amp;hl=es-419&amp;project=gen-lang-client-0192650346" id="22">
+      <title>Usage and Limits | Google AI Studio</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
