@@ -17,6 +17,9 @@
   <bookmark href="https://calendar.notion.so/" id="33">
     <title></title>
   </bookmark>
+  <bookmark href="https://mail.notion.so/inbox" id="35">
+    <title></title>
+  </bookmark>
   <bookmark href="https://www.youtube.com/" id="5">
     <title></title>
   </bookmark>
@@ -78,9 +81,6 @@
     </bookmark>
     <bookmark href="http://100.86.94.38:6969/d/hes-ack-metrics/head-end-system?orgId=1&amp;from=now-15m&amp;to=now&amp;timezone=browser" id="16">
       <title>Grafana</title>
-    </bookmark>
-    <bookmark href="https://mail.notion.so/inbox" id="35">
-      <title></title>
     </bookmark>
   </folder>
 </folder>
