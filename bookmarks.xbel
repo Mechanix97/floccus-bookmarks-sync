@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :25: for Floccus bookmark sync browser extension -->
+<!--- highestId :26: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -51,6 +51,9 @@
     </bookmark>
     <bookmark href="http://100.86.94.38:5678/home/workflows" id="17">
       <title>n8n</title>
+    </bookmark>
+    <bookmark href="http://100.86.94.38:7900/" id="26">
+      <title>noVNC</title>
     </bookmark>
   </folder>
   <folder id="20">
