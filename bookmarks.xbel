@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :35: for Floccus bookmark sync browser extension -->
+<!--- highestId :36: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -39,6 +39,9 @@
     <title></title>
   </bookmark>
   <bookmark href="https://www.thingiverse.com/" id="32">
+    <title></title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/" id="36">
     <title></title>
   </bookmark>
   <folder id="10">
